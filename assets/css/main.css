@@ -1622,7 +1622,7 @@
 	}
 
 	body {
-		background: #312450;
+		background: #004C7F;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -3249,11 +3249,11 @@
 			}
 
 		.wrapper.alt {
-			background-color: #52489C;
+			background-color: #005E9E;
 		}
 
 		.wrapper.style1 {
-			background-color: #0074C1;
+			background-color: #005E9E;
 		}
 
 		.wrapper.style1-alt {
